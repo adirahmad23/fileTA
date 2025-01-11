@@ -1,2 +1,0 @@
-implementasi citra kedalaman pada robot sepak bola beroda untuk menentukan posisi gerak robot 
-
